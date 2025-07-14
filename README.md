@@ -18,9 +18,11 @@ This project is a centralized Retrieval-Augmented Generation (RAG) system built 
 
 ![UI Screenshot](Screenshot%202025-07-14%20201649.png) 
 
+---
 ![UI Screenshot](Screenshot%202025-07-14%20201934.png)
 
-![UI Screenshot](Screenshot%202025-07-14%20201934.png)
+---
+![UI Screenshot](Screenshot%202025-07-14%20201954.png)
 
 ---
 
