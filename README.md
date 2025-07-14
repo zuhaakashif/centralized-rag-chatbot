@@ -16,7 +16,11 @@ This project is a centralized Retrieval-Augmented Generation (RAG) system built 
 
 ## 📷 Preview
 
-![UI Screenshot](Screenshot%202025-07-14%20201649.png) <!-- Replace this with your actual image path or remove -->
+![UI Screenshot](Screenshot%202025-07-14%20201649.png) 
+
+![UI Screenshot](Screenshot%202025-07-14%20201934.png)
+
+![UI Screenshot](Screenshot%202025-07-14%20201934.png)
 
 ---
 
